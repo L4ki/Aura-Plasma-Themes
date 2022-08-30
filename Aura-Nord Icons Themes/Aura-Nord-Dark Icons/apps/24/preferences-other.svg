@@ -1,14 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <defs id="defs3051">
-    <style type="text/css" id="current-color-scheme">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg14880"
+   sodipodi:docname="preferences-other.svg"
+   width="64"
+   height="64"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14882"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.7926636"
+     inkscape:cx="11.996846"
+     inkscape:cy="-14.897182"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14880" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#eff0f1;
       }
       </style>
-  </defs><g transform="translate(1,1)">
- <path 
-     style="fill:currentColor;fill-opacity:1;stroke:none" 
-	d="m3 5v2h16v-2h-16m0 5v2h16v-2h-16m0 5v2h16v-2h-16"
-	 class="ColorScheme-Text"
-     />
-</g></svg>
+    <linearGradient
+       id="linearGradient939"
+       x1="-4.3903999"
+       x2="56.743"
+       y1="72.203003"
+       y2="7.5985999"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.0285,0.0108)">
+      <stop
+         stop-color="#ebcb8b"
+         offset="0"
+         id="stop14639" />
+      <stop
+         stop-color="#d08770"
+         offset="1"
+         id="stop14641" />
+    </linearGradient>
+  </defs>
+  <path
+     d="m 14.8385,3.4995 h 34.323 c 6.2817,0 11.339,5.0571 11.339,11.339 v 34.323 c 0,6.2817 -5.0571,11.339 -11.339,11.339 h -34.323 c -6.2817,0 -11.339,-5.0571 -11.339,-11.339 v -34.323 c 0,-6.2817 5.0571,-11.339 11.339,-11.339 z"
+     fill="url(#linearGradient939)"
+     stroke-width="4.6391"
+     id="path14652"
+     style="fill:url(#linearGradient939)" />
+  <path
+     style="color:#eff0f1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2.66669"
+     d="m 10.780458,15.49435 v 5.333331 H 53.447125 V 15.49435 H 10.780458 m 0,13.333331 v 5.333337 H 53.447125 V 28.827681 H 10.780458 m 0,13.333336 V 47.49435 H 53.447125 V 42.161017 H 10.780458"
+     class="ColorScheme-Text"
+     id="path14878-7" />
+</svg>
