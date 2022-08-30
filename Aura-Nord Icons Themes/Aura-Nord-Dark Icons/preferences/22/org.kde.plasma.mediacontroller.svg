@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="org.kde.plasma.mediacontroller.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview326"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="2.3786088"
+     inkscape:cx="71.260142"
+     inkscape:cy="113.72194"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid449"
+       originx="14.954078"
+       originy="149.97726" />
+  </sodipodi:namedview>
+  <defs
+     id="defs321">
+    <filter
+       id="filter1178"
+       x="-0.047999482"
+       y="-0.047999482"
+       width="1.095999"
+       height="1.095999"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="0.30691668"
+         id="feGaussianBlur2" />
+    </filter>
+    <linearGradient
+       id="linearGradient1340"
+       x1="8.6644001"
+       x2="8.6644001"
+       y1="15.931"
+       y2="0.79374999"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#5e81ac"
+         offset="0"
+         id="stop5" />
+      <stop
+         stop-color="#88c0d0"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3870"
+       x1="30.464001"
+       x2="30.464001"
+       y1="3.0011001"
+       y2="13.506"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#eceff4"
+         offset="0"
+         id="stop10" />
+      <stop
+         stop-color="#d8dee9"
+         offset="1"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4244"
+       x1="30.358999"
+       x2="30.297001"
+       y1="10.287"
+       y2="6.2572999"
+       gradientTransform="translate(0.062429,0.12147)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#88c0d0"
+         offset="0"
+         id="stop15" />
+      <stop
+         stop-color="#5e81ac"
+         offset="1"
+         id="stop17" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(14.954078,149.97726)">
+    <g
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="g28"
+       transform="matrix(3.779602,0,0,3.779602,-15,-150)">
+      <rect
+         transform="matrix(0.99138,0,0,1,0.072989,2.4878e-7)"
+         x="0.79374999"
+         y="0.90544999"
+         width="15.346"
+         height="15.346"
+         rx="3.0525999"
+         ry="3.0525999"
+         fill="#2e3440"
+         filter="url(#filter1178)"
+         opacity="0.2"
+         stroke-width="1.2489"
+         style="mix-blend-mode:normal"
+         id="rect22" />
+      <rect
+         x="0.92603999"
+         y="0.92603999"
+         width="15.081"
+         height="15.081"
+         rx="3"
+         ry="3"
+         fill="url(#linearGradient1340)"
+         stroke-width="1.2274"
+         id="rect24"
+         style="fill:url(#linearGradient1340)" />
+      <rect
+         x="0.01215"
+         y="0.0060174"
+         width="16.924"
+         height="16.927"
+         fill="none"
+         opacity="0.15"
+         stroke-width="1.052"
+         id="rect26" />
+    </g>
+    <g
+       transform="matrix(2.8500845,0,0,2.8500845,-70.106597,-142.23103)"
+       id="g34">
+      <ellipse
+         cx="30.573"
+         cy="8.5059004"
+         rx="5.6248002"
+         ry="6.1524"
+         fill="url(#linearGradient3870)"
+         id="ellipse30"
+         style="fill:url(#linearGradient3870)" />
+      <path
+         d="m 33.065,8.4848 -3.926,2.6365 v -5.231 z"
+         fill="url(#linearGradient4244)"
+         stroke-width="0.12017"
+         id="path32"
+         style="fill:url(#linearGradient4244)" />
+    </g>
+  </g>
+</svg>
