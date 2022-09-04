@@ -1,2 +1,2 @@
-# Aura-Nord-Plasma-Themes
-Aura-Nord Themes For Plasma Desktop
+# Aura-Plasma-Themes
+Aura Themes For Plasma Desktop
