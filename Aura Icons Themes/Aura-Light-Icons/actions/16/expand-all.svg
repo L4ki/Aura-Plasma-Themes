@@ -1,4 +1,4 @@
-<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
     <style
         type="text/css"
         id="current-color-scheme">
@@ -6,5 +6,5 @@
             color:#232629;
         }
     </style>
-    <path d="M2 4v1h12V4zm.707 3L2 7.707l6 6 6-6L13.293 7 8 12.293 2.707 7z" class="ColorScheme-Text" fill="currentColor"/>
+    <path d="M3 6v1h16V6zm.707 4L3 10.707l8 8 8-8-.707-.707L11 17.293 3.707 10z" class="ColorScheme-Text" fill="currentColor"/>
 </svg>
