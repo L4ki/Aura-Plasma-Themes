@@ -26,7 +26,7 @@
        inkscape:connector-curvature="0"
        id="path9068-9-37-8-0-1-0"
        d="m 19.559254,2.9999976 -17.118508,4.8e-6 V 17.790998 h 17.288 z"
-       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient2947);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55969;marker:none"
+       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient2947);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.55969;marker:none"
        sodipodi:nodetypes="cccccc" />
     <path
        d="m 10.990187,15.575771 h 0.01337 a 1.5030632,1.5000082 0 0 0 0,-3 1.5030905,1.5000357 0 0 0 -0.01337,3 z"
@@ -84,7 +84,7 @@
      showgrid="false"
      inkscape:zoom="10.429825"
      inkscape:cx="26.894027"
-     inkscape:cy="17.737594"
+     inkscape:cy="17.785533"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -114,12 +114,24 @@
   </metadata>
   <defs
      id="defs3051">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3463">
+      <stop
+         style="stop-color:#5581aa;stop-opacity:1;"
+         offset="0"
+         id="stop3459" />
+      <stop
+         style="stop-color:#6db2c5;stop-opacity:1;"
+         offset="1"
+         id="stop3461" />
+    </linearGradient>
     <style
        id="current-color-scheme"
        type="text/css" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       xlink:href="#linearGradient3463"
        id="linearGradient5058"
        x1="148.9608"
        y1="596.36218"
@@ -129,19 +141,7 @@
        gradientTransform="matrix(0.50999969,0,0,0.42750131,-58.969959,-248.94562)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4813">
-      <stop
-         style="stop-color:#008080;stop-opacity:1;"
-         offset="0"
-         id="stop4809" />
-      <stop
-         style="stop-color:#aa87de;stop-opacity:1"
-         offset="1"
-         id="stop4811" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       xlink:href="#linearGradient3463"
        id="linearGradient2947"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.43219982,0,0,0.36977632,-52.448623,-217.5207)"

@@ -29,7 +29,7 @@
        inkscape:connector-curvature="0"
        id="path9068-9-37-8-0-1-8"
        d="m 16,1.999999 -10,5.4e-6 V 19.999999 h 10 z"
-       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient21561);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.469575;marker:none"
+       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient21561);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.469575;marker:none"
        sodipodi:nodetypes="ccccc" />
     <path
        class="ColorScheme-Text"
@@ -56,8 +56,8 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="39.68637"
-     inkscape:cx="30.140428"
+     inkscape:cy="39.863147"
+     inkscape:cx="30.317205"
      inkscape:zoom="5.656854"
      showgrid="false"
      id="namedview10"
@@ -84,12 +84,24 @@
   </sodipodi:namedview>
   <defs
      id="defs81">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient25837">
+      <stop
+         style="stop-color:#5581aa;stop-opacity:1;"
+         offset="0"
+         id="stop25833" />
+      <stop
+         style="stop-color:#6db2c5;stop-opacity:1;"
+         offset="1"
+         id="stop25835" />
+    </linearGradient>
     <style
        id="current-color-scheme"
        type="text/css" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       xlink:href="#linearGradient25837"
        id="linearGradient5058"
        x1="150.33334"
        y1="597.23175"
@@ -99,19 +111,7 @@
        gradientTransform="matrix(0.29999983,0,0,0.57500218,-28.099976,-338.40957)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4813">
-      <stop
-         style="stop-color:#008080;stop-opacity:1;"
-         offset="0"
-         id="stop4809" />
-      <stop
-         style="stop-color:#aa87de;stop-opacity:1"
-         offset="1"
-         id="stop4811" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       xlink:href="#linearGradient25837"
        id="linearGradient5058-5"
        x1="148.9608"
        y1="596.36218"
@@ -121,7 +121,7 @@
        gradientTransform="matrix(0.29999983,0,0,0.57500218,-28.099976,-338.40957)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       xlink:href="#linearGradient25837"
        id="linearGradient21561"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.24999986,0,0,0.45000139,-25.74998,-266.36383)"
@@ -131,7 +131,7 @@
        y2="635.49249" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       xlink:href="#linearGradient25837"
        id="linearGradient21829"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.24999986,0,0,0.45000139,-25.74998,-266.36383)"
@@ -167,7 +167,7 @@
        inkscape:connector-curvature="0"
        id="path9068-9-37-8-0-1"
        d="m 22,4.5 -12,6e-6 v 23.00001 h 12 z"
-       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient5058);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.581464;marker:none"
+       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient5058);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.581464;marker:none"
        sodipodi:nodetypes="ccccc" />
     <path
        sodipodi:nodetypes="ccccccc"
@@ -219,7 +219,7 @@
        inkscape:connector-curvature="0"
        id="path9068-9-37-8-0-1-8-6"
        d="m 16,1.9999985 -10,5e-6 V 19.999998 h 10 z"
-       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient21829);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.469575;marker:none"
+       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient21829);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.469575;marker:none"
        sodipodi:nodetypes="ccccc" />
     <path
        d="M 15.343991,0.999998 H 6.656007 C 5.744011,0.999998 5,1.653327 5,2.454168 v 17.091661 c 0,0.80084 0.744011,1.454169 1.656007,1.454169 h 8.687984 C 16.255988,20.999998 17,20.346669 17,19.545829 V 2.454168 C 17,1.653327 16.255988,0.999998 15.343991,0.999998 Z M 9,2.000001 h 4 v 0 c 1,0 1,1 0,1 H 9 c -1,0 -1,-1 0,-1 z m 2,18 c -1,0 -1,0 -1,-1 0,-1 0,-1 1,-1 1,0 1,0 1,1 0,1 0,1 -1,1 z m 4,-4 H 7 v -12 h 8 z"

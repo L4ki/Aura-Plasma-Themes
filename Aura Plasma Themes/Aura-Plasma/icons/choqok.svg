@@ -89,7 +89,19 @@
      id="defs16">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       id="linearGradient6552">
+      <stop
+         style="stop-color:#5581aa;stop-opacity:1;"
+         offset="0"
+         id="stop6548" />
+      <stop
+         style="stop-color:#6db2c5;stop-opacity:1;"
+         offset="1"
+         id="stop6550" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6552"
        id="linearGradient5058"
        x1="147.00002"
        y1="596.82458"
@@ -99,19 +111,7 @@
        gradientTransform="matrix(0.51499968,0,0,0.43250137,-59.704958,-252.12746)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4813">
-      <stop
-         style="stop-color:#008080;stop-opacity:1;"
-         offset="0"
-         id="stop4809" />
-      <stop
-         style="stop-color:#aa87de;stop-opacity:1"
-         offset="1"
-         id="stop4811" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       xlink:href="#linearGradient6552"
        id="linearGradient6958"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.43219982,0,0,0.36977632,-52.502369,-217.8047)"
@@ -135,7 +135,7 @@
      showgrid="false"
      inkscape:zoom="9.8125003"
      inkscape:cx="30.420381"
-     inkscape:cy="20.687897"
+     inkscape:cy="20.738853"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -165,7 +165,7 @@
        inkscape:connector-curvature="0"
        id="path9068-9-37-8-0-1-0-1-3-7-4-6-1"
        d="M 19.505508,2.716 2.387,2.7160048 V 17.507001 h 17.288 z"
-       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient6958);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55969;marker:none"
+       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient6958);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.55969;marker:none"
        sodipodi:nodetypes="cccccc" />
     <path
        inkscape:connector-curvature="0"

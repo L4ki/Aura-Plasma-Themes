@@ -88,36 +88,36 @@
      id="defs16">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       id="linearGradient27099">
+      <stop
+         style="stop-color:#5581aa;stop-opacity:1;"
+         offset="0"
+         id="stop27095" />
+      <stop
+         style="stop-color:#6db2c5;stop-opacity:1;"
+         offset="1"
+         id="stop27097" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient27099"
        id="linearGradient24643"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.53047063,0,0,0.52750186,-61.869774,-309.28216)"
        x1="148.58699"
        y1="597.93524"
-       x2="148.58699"
-       y2="633.89014" />
+       x2="148.8334"
+       y2="636.36206" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4813">
-      <stop
-         style="stop-color:#008080;stop-opacity:1;"
-         offset="0"
-         id="stop4809" />
-      <stop
-         style="stop-color:#aa87de;stop-opacity:1"
-         offset="1"
-         id="stop4811" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       xlink:href="#linearGradient27099"
        id="linearGradient5562"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.44975237,0,0,0.41000145,-55.108554,-241.78737)"
        x1="148.58699"
        y1="597.93524"
-       x2="148.58699"
-       y2="633.89014" />
+       x2="148.65521"
+       y2="636.06451" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -133,8 +133,8 @@
      id="namedview14"
      showgrid="false"
      inkscape:zoom="11.313709"
-     inkscape:cx="28.59363"
-     inkscape:cy="18.605747"
+     inkscape:cx="28.682018"
+     inkscape:cy="18.694135"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"

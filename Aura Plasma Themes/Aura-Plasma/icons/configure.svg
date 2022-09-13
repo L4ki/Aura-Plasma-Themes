@@ -84,8 +84,8 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="15.202809"
-     inkscape:cx="11.082421"
+     inkscape:cy="15.259642"
+     inkscape:cx="11.110838"
      inkscape:zoom="17.595433"
      showgrid="false"
      id="namedview32"
@@ -231,7 +231,7 @@
        inkscape:connector-curvature="0" />
     <path
        id="path4174"
-       style="fill:#088699;fill-opacity:1;stroke:none;stroke-width:1"
+       style="fill:#499fb6;fill-opacity:1;stroke:none;stroke-width:1"
        d="M 10.999999,6 A 5.0000001,5.0000002 0 0 0 6,10.999999 5.0000001,5.0000002 0 0 0 10.999999,16 5.0000001,5.0000002 0 0 0 16,10.999999 5.0000001,5.0000002 0 0 0 10.999999,6 m 0,3 a 2.0000001,2.0000002 0 0 1 2,1.999999 2.0000001,2.0000002 0 0 1 -2,2 A 2.0000001,2.0000002 0 0 1 9,10.999999 2.0000001,2.0000002 0 0 1 10.999999,9"
        inkscape:connector-curvature="0" />
     <circle
@@ -327,7 +327,7 @@
     <path
        id="path4242"
        d="m 30,10.000006 a 4,4 0 0 0 -4,4 4,4 0 0 0 4,4 4,4 0 0 0 4,-4 4,4 0 0 0 -4,-4 z m 0,2 a 2,2 0 0 1 2,2 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 z"
-       style="fill:#088699;fill-opacity:1;stroke:none" />
+       style="fill:#489eb7;fill-opacity:1;stroke:none" />
     <circle
        id="circle-transparent-6-9-3"
        cx="30"

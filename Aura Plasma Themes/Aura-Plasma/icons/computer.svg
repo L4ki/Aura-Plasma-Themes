@@ -59,12 +59,24 @@
   </metadata>
   <defs
      id="defs5">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3840">
+      <stop
+         style="stop-color:#5581aa;stop-opacity:1;"
+         offset="0"
+         id="stop3836" />
+      <stop
+         style="stop-color:#6db2c5;stop-opacity:1;"
+         offset="1"
+         id="stop3838" />
+    </linearGradient>
     <style
        id="current-color-scheme"
        type="text/css" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       xlink:href="#linearGradient3840"
        id="linearGradient5058"
        x1="127.67347"
        y1="622.59167"
@@ -74,19 +86,7 @@
        gradientTransform="matrix(0.57499971,0,0,0.15250046,-68.412209,-74.945515)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4813">
-      <stop
-         style="stop-color:#008080;stop-opacity:1;"
-         offset="0"
-         id="stop4809" />
-      <stop
-         style="stop-color:#aa87de;stop-opacity:1"
-         offset="1"
-         id="stop4811" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       xlink:href="#linearGradient3840"
        id="linearGradient12733"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.57499971,0,0,0.15250046,-68.524959,-75.045516)"
@@ -96,7 +96,7 @@
        y2="623.24738" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       xlink:href="#linearGradient3840"
        id="linearGradient12756"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.48706874,0,0,0.15250046,-60.144722,-80.545521)"
@@ -106,7 +106,7 @@
        y2="619.96875" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       xlink:href="#linearGradient3840"
        id="linearGradient13270"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.48706874,0,0,0.15250046,-60.251222,-80.654522)"
@@ -141,7 +141,7 @@
        inkscape:connector-curvature="0"
        id="path9068-9-37-8-0-1"
        d="m 27.387257,16 -22.7745135,2e-6 V 22.1 H 27.612744 Z"
-       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient5058);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.414573;marker:none"
+       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient5058);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.414573;marker:none"
        sodipodi:nodetypes="cccccc"
        inkscape:transform-center-x="-1.2484283"
        inkscape:transform-center-y="-2.6124686" />
@@ -166,7 +166,7 @@
        inkscape:connector-curvature="0"
        id="path9068-9-37-8-0-1-4"
        d="m 27.27451,15.899999 -22.7745165,2e-6 v 6.099998 H 27.49999 Z"
-       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient12733);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.414573;marker:none"
+       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient12733);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.414573;marker:none"
        sodipodi:nodetypes="cccccc"
        inkscape:transform-center-x="-1.2484283"
        inkscape:transform-center-y="-2.6124686" />
@@ -216,7 +216,7 @@
        inkscape:connector-curvature="0"
        id="path9068-9-37-8-0-1-1-1"
        d="m 20.3935,10.291 -18.787,10e-7 v 6.099998 l 18.787,-0.1 z"
-       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient13270);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.38156;marker:none"
+       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient13270);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.38156;marker:none"
        sodipodi:nodetypes="ccccc"
        inkscape:transform-center-x="-1.0575141"
        inkscape:transform-center-y="-2.6124686" />

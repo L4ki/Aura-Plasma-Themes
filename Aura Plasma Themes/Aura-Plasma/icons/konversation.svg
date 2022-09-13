@@ -55,19 +55,19 @@
      id="defs16">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4813">
+       id="linearGradient16074">
       <stop
-         style="stop-color:#008080;stop-opacity:1;"
+         style="stop-color:#5581aa;stop-opacity:1;"
          offset="0"
-         id="stop4809" />
+         id="stop16070" />
       <stop
-         style="stop-color:#aa87de;stop-opacity:1"
+         style="stop-color:#6db2c5;stop-opacity:1;"
          offset="1"
-         id="stop4811" />
+         id="stop16072" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       xlink:href="#linearGradient16074"
        id="linearGradient1308-3"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.57244293,0,0,0.39490575,-70.06127,-226.65691)"
@@ -77,7 +77,7 @@
        y2="635.10577" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       xlink:href="#linearGradient16074"
        id="linearGradient34728"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.57149565,0,0,0.39490575,-72.990285,-231.53191)"
@@ -131,7 +131,7 @@
        inkscape:connector-curvature="0"
        id="path9068-9-37-8-0-1-6-3-5-7"
        d="M 15.973523,5.05 H 0.9983452 l 0.9983452,12 13.9768326,-1 z"
-       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient34728);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.66509;marker:none"
+       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient34728);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.66509;marker:none"
        sodipodi:nodetypes="ccccc" />
     <path
        d="M 19.966904,2 H 8.9851068 C 6.9884164,2 7.074326,3.931075 7.074326,3.931075 v 0 L 1.9966904,4 C 1.0377139,4.01302 0,4.786262 0,6.005733 V 15.9826 C 0,17.202069 0.78023173,18 1.7390514,18 h 1.2559842 v 0 0 L 6,21 8.9851068,18 h 5.9900712 c 0.958822,0 1.99669,-0.78051 1.99669,-2 v -2 l 0.09441,0.05294 h 2.857063 v 0 L 19.966904,14 c 0.998345,0 1.99669,-1 1.99669,-2 V 4 c 0,-1 -0.998345,-2 -1.99669,-2 z m -5.990072,14 v 0 H 4.991725 v 0 0 H 2.9950346 v 0 0 c 0,0 -0.9989442,0 -0.9983452,-1 l 0.00479,-8 C 1.9966894,6 3.0948691,6 3.0948691,6 H 13.876997 c 0.998345,0 1.134586,1 1.134586,1 l -0.03641,8 c 0,0 0,1 -0.998345,1 z"

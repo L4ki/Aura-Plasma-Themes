@@ -28,7 +28,7 @@
        inkscape:connector-curvature="0"
        id="path9068-9-37-8-0-1-0"
        d="M 19.474508,2.6852225 2.356,2.6852275 V 17.476222 h 17.288 z"
-       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient2947);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55969;marker:none"
+       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient2947);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.55969;marker:none"
        sodipodi:nodetypes="cccccc" />
     <path
        d="m 7.210525,5 c -0.36842,0 -0.663157,0.294736 -0.663157,0.663158 0,0.368421 0.294737,0.663157 0.663157,0.663157 4.115795,0 7.463154,3.336837 7.463154,7.452635 0,0.368408 0.294749,0.663158 0.663171,0.663158 C 15.705251,14.442108 16,14.147358 16,13.77895 16,8.936846 12.06315,5 7.210525,5 Z"
@@ -96,7 +96,19 @@
      id="defs16">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       id="linearGradient2005">
+      <stop
+         style="stop-color:#5581aa;stop-opacity:1;"
+         offset="0"
+         id="stop2001" />
+      <stop
+         style="stop-color:#6db2c5;stop-opacity:1;"
+         offset="1"
+         id="stop2003" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2005"
        id="linearGradient5058"
        x1="148.9608"
        y1="596.36218"
@@ -106,26 +118,14 @@
        gradientTransform="matrix(0.50999969,0,0,0.42750131,-58.969959,-248.94562)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4813">
-      <stop
-         style="stop-color:#008080;stop-opacity:1;"
-         offset="0"
-         id="stop4809" />
-      <stop
-         style="stop-color:#aa87de;stop-opacity:1"
-         offset="1"
-         id="stop4811" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       xlink:href="#linearGradient2005"
        id="linearGradient2947"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.43219982,0,0,0.36977632,-52.533369,-217.83547)"
-       x1="148"
-       y1="590.36218"
-       x2="148"
-       y2="642.36218" />
+       x1="146.99998"
+       y1="597.21362"
+       x2="146.99998"
+       y2="636.36224" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"

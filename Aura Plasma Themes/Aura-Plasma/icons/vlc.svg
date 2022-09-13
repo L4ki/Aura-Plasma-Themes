@@ -29,7 +29,19 @@
      id="defs16">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       id="linearGradient927">
+      <stop
+         style="stop-color:#ffb380;stop-opacity:1"
+         offset="0"
+         id="stop923" />
+      <stop
+         style="stop-color:#d08770;stop-opacity:1;"
+         offset="0.48488802"
+         id="stop925" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient927"
        id="linearGradient5058"
        x1="148.9608"
        y1="596.36218"
@@ -45,7 +57,7 @@
          offset="0"
          id="stop4809" />
       <stop
-         style="stop-color:#ff7f2a;stop-opacity:1"
+         style="stop-color:#d08770;stop-opacity:1;"
          offset="0.48488802"
          id="stop4811" />
     </linearGradient>
@@ -74,8 +86,8 @@
      id="namedview14"
      showgrid="false"
      inkscape:zoom="13.876971"
-     inkscape:cx="27.635714"
-     inkscape:cy="20.285407"
+     inkscape:cx="27.707776"
+     inkscape:cy="20.357468"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"

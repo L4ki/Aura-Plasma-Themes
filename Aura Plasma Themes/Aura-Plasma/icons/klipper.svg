@@ -60,7 +60,19 @@
      id="defs16">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       id="linearGradient8391">
+      <stop
+         style="stop-color:#5581aa;stop-opacity:1;"
+         offset="0"
+         id="stop8387" />
+      <stop
+         style="stop-color:#6db2c5;stop-opacity:1;"
+         offset="1"
+         id="stop8389" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8391"
        id="linearGradient5058"
        x1="147.10342"
        y1="596.93359"
@@ -70,19 +82,7 @@
        gradientTransform="matrix(0.51249971,0,0,0.43750136,-59.390461,-255.15926)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4813">
-      <stop
-         style="stop-color:#008080;stop-opacity:1;"
-         offset="0"
-         id="stop4809" />
-      <stop
-         style="stop-color:#aa87de;stop-opacity:1"
-         offset="1"
-         id="stop4811" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4813"
+       xlink:href="#linearGradient8391"
        id="linearGradient6958"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.43219982,0,0,0.36977632,-52.533369,-217.9162)"
@@ -142,7 +142,7 @@
        inkscape:connector-curvature="0"
        id="path9068-9-37-8-0-1-0-1-3-7-4-6-1"
        d="M 19.474508,2.6044995 2.356,2.6045043 V 17.3955 h 17.288 z"
-       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient6958);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55969;marker:none"
+       style="display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:url(#linearGradient6958);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.55969;marker:none"
        sodipodi:nodetypes="cccccc" />
     <path
        d="M 12.450858,8.010762 11.776496,7.529029 12.409257,6.709865 c 0.06985,-0.09048 0.06147,-0.210348 -0.03653,-0.280361 L 12.752348,5.938006 C 13.258552,5.282677 12.321443,4.613249 11.815239,5.268579 l -0.379658,0.491498 c -0.09801,-0.07001 -0.234119,-0.05343 -0.304013,0.03706 l -5.188651,6.717138 c -0.01156,0.01425 -0.02033,0.0304 -0.02582,0.04758 l -0.902173,2.152147 c -0.07847,0.194491 0.169763,0.371816 0.340729,0.243395 L 7.220602,13.42694 c 0.01566,-0.01012 -0.01081,0.01471 0,0 l 4.302792,-5.570265 0.425906,0.304251 -1.708458,2.21174 0.425911,0.30425 1.835008,-2.375572 c 0.06984,-0.09048 0.04716,-0.220586 -0.05088,-0.290598 z m -6.018797,4.725823 0.425913,0.304252 v 0 z m 0.425913,0.304252 v 0 l 4.239509,-5.488394 v 0 z"
