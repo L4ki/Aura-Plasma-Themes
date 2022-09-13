@@ -10,3 +10,17 @@ Aura Themes For Plasma Desktop
 ![Screenshot_20220904_174436](https://user-images.githubusercontent.com/45247573/188836668-267576d6-56b6-4dad-916a-91da86477cad.png)
 
 
+Changelog: 13.09.2022.
+-----------------------
+
+Plasma Theme
+-------------
+
+Update: icons
+
+Icons
+------
+
+Update icons: places
+
+
