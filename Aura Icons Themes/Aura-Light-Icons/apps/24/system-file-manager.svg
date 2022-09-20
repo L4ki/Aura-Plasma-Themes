@@ -23,7 +23,7 @@
      showgrid="false"
      inkscape:zoom="5.2604167"
      inkscape:cx="36.40396"
-     inkscape:cy="10.360396"
+     inkscape:cy="10.930693"
      inkscape:window-width="1920"
      inkscape:window-height="1002"
      inkscape:window-x="0"
@@ -34,6 +34,18 @@
      inkscape:deskcolor="#c9c9c9" />
   <defs
      id="defs32">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4523">
+      <stop
+         style="stop-color:#3f485a;stop-opacity:1;"
+         offset="0"
+         id="stop4519" />
+      <stop
+         style="stop-color:#546078;stop-opacity:1;"
+         offset="1"
+         id="stop4521" />
+    </linearGradient>
     <linearGradient
        xlink:href="#linearGradient4393"
        id="linearGradient4399"
@@ -144,15 +156,24 @@
          offset="1"
          id="stop840" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4523"
+       id="linearGradient4525"
+       x1="2.9999986"
+       y1="61"
+       x2="61"
+       y2="3"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      d="m 2.9999985,10.25 c 0,-4.0041748 3.245938,-7.25 7.2500005,-7.25 h 43.500003 c 4.004173,0 7.249999,3.2458252 7.249999,7.25 v 43.5 c 0,4.004173 -3.245827,7.25 -7.25,7.25 H 10.249999 C 6.2459365,61 2.9999985,57.754173 2.9999985,53.75 Z"
      id="path736"
-     style="fill:#606c86;fill-opacity:1;stroke-width:3.625" />
+     style="fill:#545c78;fill-opacity:1;stroke-width:3.625" />
   <path
      d="M 2.9999985,9.796875 C 2.9999985,6.0431877 6.2459365,3 10.249999,3 h 43.500003 c 4.004173,0 7.249999,3.0431877 7.249999,6.796875 v 40.781249 c 0,3.753693 -3.245827,6.796876 -7.25,6.796876 H 10.249999 c -4.0040625,0 -7.2500005,-3.043183 -7.2500005,-6.796876 z"
      id="path738"
-     style="fill:#3b4252;fill-opacity:1;stroke-width:3.625" />
+     style="fill:url(#linearGradient4525);fill-opacity:1;stroke-width:3.625" />
   <path
      style="fill:url(#linearGradient862);fill-opacity:1;stroke-width:0.144556"
      d="m 31.997637,12.611823 c -2.675807,0 0.0014,-0.03604 -1.813723,0 L 28.796316,10.591815 C 28.488434,10.067439 27.6715,9.639473 26.981784,9.638569 L 11.713663,9.608539 c -2.2536455,0 -2.9248775,0.776651 -2.9243055,2.495433 l 2.13e-4,0.724692 v 2.132033 l -2.13e-4,28.112571 c -8e-6,0.767039 1.8070405,2.574116 2.6780945,2.574116 h 41.065072 c 0.892696,0 2.678117,-1.716078 2.678117,-2.574116 v -27.19987 c 0,-1.71608 -1.428381,-3.26157 -3.170039,-3.26157 z"
