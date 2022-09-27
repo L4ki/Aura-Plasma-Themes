@@ -38,4 +38,22 @@ Icons
 
 Update icons: apps
 
+Changelog: 27.09.2022.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added widgets: dragger.svg, frame.svg
+
+Icons
+------
+
+Added new  icons: apps 48
+
+GTK-Theme
+--------
+
+Update: assets, gtk.css
+
 
