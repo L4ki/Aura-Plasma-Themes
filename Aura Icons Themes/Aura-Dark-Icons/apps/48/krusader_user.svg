@@ -26,7 +26,7 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="4.7572176"
-     inkscape:cx="-16.080828"
+     inkscape:cx="-17.236966"
      inkscape:cy="18.603311"
      inkscape:window-width="1920"
      inkscape:window-height="1002"
@@ -369,11 +369,10 @@
        width="46.856369"
        x="8.3999996"
        y="13.747"
-       fill="#da4453"
        rx="0"
        height="1.1714088"
        id="rect214"
-       style="stroke-width:0.117144" />
+       style="stroke-width:0.117144;fill:#0066ff;fill-opacity:1" />
     <path
        id="e-1"
        d="M 9.5714,16.089838 H 30.656752 V 52.403503 H 9.5714 Z"
@@ -407,27 +406,27 @@
        id="use230"
        transform="translate(0,9.3712689)"
        x="0"
-       style="fill:#da4453" />
+       style="fill:#0066ff;fill-opacity:1" />
     <use
        x="0"
        xlink:href="#f-2"
        id="use232"
        transform="translate(23.428175)"
        y="0"
-       style="fill:#da4453" />
+       style="fill:#0066ff;fill-opacity:1" />
     <use
        x="0"
        y="0"
        xlink:href="#f-2"
        id="use234"
        transform="translate(23.428175,9.3712689)"
-       style="fill:#da4453" />
+       style="fill:#0066ff;fill-opacity:1" />
     <use
        x="0"
        y="0"
        xlink:href="#f-2"
        id="use236"
        transform="translate(23.428175,18.742535)"
-       style="fill:#da4453" />
+       style="fill:#0066ff;fill-opacity:1" />
   </g>
 </svg>
