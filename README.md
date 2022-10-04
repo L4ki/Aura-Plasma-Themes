@@ -56,4 +56,17 @@ GTK-Theme
 
 Update: assets, gtk.css
 
+Changelog: 04.10.2022.
+-----------------------
+
+Plasma Theme
+-------------
+
+Update icon: user.svg
+
+Icons
+------
+
+Added new  icons: apps
+
 
