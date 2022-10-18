@@ -88,7 +88,7 @@ Changelog: 18.10.2022.
 Plasma Theme
 -------------
 
-Update icon: scrollbar.svg
+Update widget: scrollbar.svg
 
 Icons
 ------
