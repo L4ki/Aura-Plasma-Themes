@@ -32,15 +32,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="8.3298084"
-     inkscape:cx="32.953939"
-     inkscape:cy="25.39074"
+     inkscape:cx="22.209394"
+     inkscape:cy="19.988455"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
@@ -52,7 +52,7 @@
      inkscape:showpageshadow="true"
      borderlayer="false"
      inkscape:pagecheckerboard="0"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
@@ -62,25 +62,13 @@
      id="defs4">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient3286">
-      <stop
-         style="stop-color:#008080;stop-opacity:1"
-         offset="0"
-         id="stop3282" />
-      <stop
-         style="stop-color:#aa87de;stop-opacity:1"
-         offset="1"
-         id="stop3284" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient2616">
       <stop
-         style="stop-color:#008080;stop-opacity:1"
+         style="stop-color:#5581aa;stop-opacity:1;"
          offset="0"
          id="stop2612" />
       <stop
-         style="stop-color:#aa87de;stop-opacity:1"
+         style="stop-color:#6db2c5;stop-opacity:1;"
          offset="1"
          id="stop2614" />
     </linearGradient>
@@ -127,12 +115,12 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3286"
+       xlink:href="#linearGradient2616"
        id="linearGradient3288"
-       x1="35.690972"
-       y1="57.379"
-       x2="75.690972"
-       y2="57.379"
+       x1="35.690971"
+       y1="57.379002"
+       x2="75.690971"
+       y2="57.379002"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
@@ -187,7 +175,7 @@
          inkscape:connector-curvature="0"
          id="path3767"
          d="m 75.690972,55.529 h -40 v 3 h 40 z"
-         style="color:#31363b;opacity:1;fill:#192432;fill-opacity:0.01;stroke:none"
+         style="color:#31363b;opacity:0.01;fill:#192432;fill-opacity:0.01;stroke:none"
          inkscape:label="#path2992" />
       <path
          inkscape:label="#path2992"
@@ -201,7 +189,7 @@
          inkscape:connector-curvature="0"
          id="path3787"
          d="m 75.690972,57.329 h -40 v 0.1 h 40 z"
-         style="color:#31363b;fill:url(#linearGradient3288);fill-opacity:1;stroke:none;stroke-width:0.316228"
+         style="color:#31363b;fill:url(#linearGradient3288);fill-opacity:1.0;stroke:none;stroke-width:0.316228"
          inkscape:label="#path2992" />
     </g>
   </g>
