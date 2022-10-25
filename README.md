@@ -95,4 +95,17 @@ Icons
 
 Added new  icons: apps
 
+Changelog: 25.10.2022.
+-----------------------
+
+Plasma Theme
+-------------
+
+Update widget: line.svg
+
+Icons
+------
+
+Added new  icons: apps
+
 
