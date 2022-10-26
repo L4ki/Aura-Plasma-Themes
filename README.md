@@ -108,4 +108,9 @@ Icons
 
 Added new  icons: apps
 
+GTK Theme
+---------
+
+Update: checkbox-checked-hover.png
+
 
