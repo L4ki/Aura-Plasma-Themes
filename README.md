@@ -132,3 +132,20 @@ GTK Theme
 Update: checkbox-checked.png
 
 
+Changelog: 09.11.2022.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added icon: face.svg
+
+Icons
+------
+
+Light Icons: Added new  icons apps 32
+
+Dark Icons: Update icons applets 48
+
+
+
