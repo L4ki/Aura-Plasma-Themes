@@ -147,5 +147,19 @@ Light Icons: Added new  icons apps 32
 
 Dark Icons: Update icons applets 48
 
+Changelog: 16.11.2022.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added icon: nulloy.svg
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+
 
 
