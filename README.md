@@ -160,6 +160,19 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 23.11.2022.
+-----------------------
+
+Plasma Theme
+-------------
+
+Update widget: tasks.svg
+
+Icons
+------
+
+Added new icons: apps 32
+
 
 
 
