@@ -173,6 +173,11 @@ Icons
 
 Added new icons: apps 32
 
+GTK Theme
+---------
+
+Update: button-active.png
+
 
 
 
