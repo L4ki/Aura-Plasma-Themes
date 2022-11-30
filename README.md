@@ -194,6 +194,11 @@ Icons
 
 Added new icons: apps 32, 48
 
+Kvantum Theme
+--------------
+
+Update: Aura-Kvantum.svg
+
 
 
 
