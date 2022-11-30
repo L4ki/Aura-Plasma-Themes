@@ -179,5 +179,21 @@ GTK Theme
 Update: button-active.png
 
 
+Changelog: 30.11.2022.
+-----------------------
+
+Plasma Theme
+-------------
+
+Update icon: go.svg
+
+Added icon: knotes.svg
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+
 
 
