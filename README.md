@@ -200,5 +200,18 @@ Kvantum Theme
 Update: Aura-Kvantum.svg
 
 
+Changelog: 07.12.2022.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added icons: emblem.svg, mellowplayer.svg
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
 
 
