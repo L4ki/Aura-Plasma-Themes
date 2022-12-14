@@ -219,4 +219,18 @@ GTK Theme
 Update: menubar-item-active.png
 
 
+Changelog: 14.12.2022.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added widget: scrollwidget.svg
+
+Icons
+------
+
+Added new icons: apps 32
+
+
 
