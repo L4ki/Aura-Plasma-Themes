@@ -232,5 +232,18 @@ Icons
 
 Added new icons: apps 32
 
+Changelog: 21.12.2022.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added icon: jami.svg
+
+Icons
+------
+
+Added new icons: apps 32
+
 
 
