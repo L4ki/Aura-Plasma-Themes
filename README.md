@@ -245,5 +245,18 @@ Icons
 
 Added new icons: apps 32
 
+Changelog: 28.12.2022.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added icons: office.svg, internet.svg
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
 
 
