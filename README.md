@@ -312,5 +312,29 @@ GTK Theme
 Update: checkbox-checked.png
 
 
+Changelog: 19.01.2023.
+-----------------------
+
+Kvantum Theme
+-------------
+
+Update: Aura-Kvantum.svg
+
+Plasma Theme
+-------------
+
+Added icon: cadence.svg
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+GTK Theme
+---------
+
+Update: checkbox-checked-insensitive.png
+
+
 
 
