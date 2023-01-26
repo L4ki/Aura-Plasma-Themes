@@ -336,5 +336,21 @@ GTK Theme
 Update: checkbox-checked-insensitive.png
 
 
+Changelog: 26.01.2023.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added icon: plasma.svg
+
+Update icon: nulloy.svg
+
+Icons
+------
+
+Update icons: status 48, 64
+
+
 
 
