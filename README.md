@@ -352,5 +352,19 @@ Icons
 Update icons: status 48, 64
 
 
+Changelog: 02.02.2023.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added icons: offline.svg, onboard.svg
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+
 
 
