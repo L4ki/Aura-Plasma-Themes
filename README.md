@@ -391,6 +391,19 @@ Icons
 
 Added new icons: apps 32
 
+Changelog: 24.02.2023.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added icon: utilities.svg
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
 
 
 
