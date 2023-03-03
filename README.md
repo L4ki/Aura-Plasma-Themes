@@ -404,6 +404,24 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 03.03.2023.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added icon: org.rnd2.cpupower_gui.svg
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+GTK-Theme
+---------
+
+Added: gtk-4.0
+
 
 
 
