@@ -423,5 +423,18 @@ GTK-Theme
 Added: gtk-4.0
 
 
+Changelog: 10.03.2023.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added icon: desktop.svg
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
 
 
