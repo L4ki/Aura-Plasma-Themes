@@ -436,5 +436,18 @@ Icons
 
 Added new icons: apps 32, 48
 
+Changelog: 17.03.2023.
+-----------------------
+
+Plasma Theme
+-------------
+
+Added icon: antimicro.svg
+
+Icons
+------
+
+Added new icons: apps 48
+
 
 
