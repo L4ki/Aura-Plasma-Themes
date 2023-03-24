@@ -449,5 +449,13 @@ Icons
 
 Added new icons: apps 48
 
+Changelog: 24.03.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
 
 
