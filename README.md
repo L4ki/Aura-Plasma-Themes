@@ -465,5 +465,13 @@ Plasma Theme
 
 Added icon: process.svg
 
+Changelog: 31.03.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
 
 
