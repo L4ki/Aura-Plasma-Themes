@@ -483,13 +483,18 @@ GTK Theme
 
 Update: tab-horz-gap.png, tab-vert-gap.png
 
-Changelog: 07.04.2023.
+Changelog: 09.04.2023.
 -----------------------
 
 Icons
 ------
 
 Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: 
 
 
 
