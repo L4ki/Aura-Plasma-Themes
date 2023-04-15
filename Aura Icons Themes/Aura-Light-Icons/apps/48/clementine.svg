@@ -4,8 +4,8 @@
    height="64"
    version="1.1"
    id="svg57"
-   sodipodi:docname="application-x-clementine.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="org.clementine_player.Clementine.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -22,10 +22,10 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
      inkscape:zoom="5.7040876"
-     inkscape:cx="14.638625"
+     inkscape:cx="-1.5778159"
      inkscape:cy="15.690502"
      inkscape:window-width="1920"
-     inkscape:window-height="998"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,6 +38,18 @@
   </sodipodi:namedview>
   <defs
      id="defs31">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1032">
+      <stop
+         style="stop-color:#d56a11;stop-opacity:1"
+         offset="0"
+         id="stop1028" />
+      <stop
+         style="stop-color:#febc85;stop-opacity:1"
+         offset="1"
+         id="stop1030" />
+    </linearGradient>
     <linearGradient
        id="a"
        y1="543.79999"
@@ -622,6 +634,16 @@
          stop-color="#fdbc4b"
          id="stop238" />
     </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1032"
+       id="radialGradient1034"
+       cx="24.001"
+       cy="1028.36"
+       fx="24.001"
+       fy="1028.36"
+       r="16"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      d="M 3,10.25 C 3,6.245825 6.245938,3 10.25,3 h 43.500003 c 4.004173,0 7.25,3.245825 7.25,7.25 v 43.5 c 0,4.004173 -3.245827,7.25 -7.25,7.25 H 10.25 C 6.245938,61 3,57.754173 3,53.75 Z"
@@ -667,7 +689,7 @@
       <path
          d="m 24,1012.36 c -3,0 -5,2 -5,2 0,0 1.193,4.052 2,6 0.856,2.066 3,6 3,6 0,0 2.144,-3.934 3,-6 0.807,-1.948 2,-6 2,-6 0,0 -2,-2 -5,-2 m -6.363,2.564 c 0,0 -2.83,0 -4.951,2.121 -2.121,2.121 -2.121,4.951 -2.121,4.951 0,0 3.71,2.02 5.658,2.828 2.066,0.856 6.363,2.121 6.363,2.121 0,0 -1.265,-4.297 -2.121,-6.363 -0.807,-1.948 -2.828,-5.658 -2.828,-5.658 m 12.727,0 c 0,0 -2.02,3.71 -2.828,5.658 -0.856,2.066 -2.121,6.363 -2.121,6.363 0,0 4.297,-1.265 6.363,-2.121 1.948,-0.807 5.658,-2.828 5.658,-2.828 0,0 0,-2.83 -2.121,-4.951 -2.121,-2.121 -4.951,-2.121 -4.951,-2.121 m -20.363,8.436 c 0,0 -2,2 -2,5 0,3 2,5 2,5 0,0 4.052,-1.193 6,-2 2.066,-0.856 6,-3 6,-3 0,0 -3.934,-2.144 -6,-3 -1.948,-0.807 -6,-2 -6,-2 m 28,0 c 0,0 -4.052,1.193 -6,2 -2.066,0.856 -6,3 -6,3 0,0 3.934,2.144 6,3 1.948,0.807 6,2 6,2 0,0 2,-2 2,-5 0,-3 -2,-5 -2,-5 m -15.414,6.414 c 0,0 -4.297,1.265 -6.363,2.121 -1.948,0.807 -5.658,2.828 -5.658,2.828 0,0 0,2.83 2.121,4.951 2.121,2.121 4.951,2.121 4.951,2.121 0,0 2.02,-3.71 2.828,-5.658 0.856,-2.066 2.121,-6.363 2.121,-6.363 m 2.828,0 c 0,0 1.265,4.297 2.121,6.363 0.807,1.948 2.828,5.658 2.828,5.658 0,0 2.83,0 4.951,-2.121 2.121,-2.121 2.121,-4.951 2.121,-4.951 0,0 -3.71,-2.02 -5.658,-2.828 -2.066,-0.856 -6.363,-2.121 -6.363,-2.121 m -1.414,0.586 c 0,0 -2.144,3.934 -3,6 -0.807,1.948 -2,6 -2,6 0,0 2,2 5,2 3,0 5,-2 5,-2 0,0 -1.193,-4.052 -2,-6 -0.856,-2.066 -3,-6 -3,-6"
          id="path258"
-         style="fill:url(#c-5);fill-opacity:1.0" />
+         style="fill-opacity:1;fill:url(#radialGradient1034)" />
     </g>
   </g>
 </svg>
