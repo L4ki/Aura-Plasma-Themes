@@ -496,5 +496,18 @@ Plasma Theme
 
 Added icon: quota.svg
 
+Changelog: 16.04.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added widget: viewitem.svg
+
 
 
