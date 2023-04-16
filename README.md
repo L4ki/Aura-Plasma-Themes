@@ -507,7 +507,7 @@ Added new icons: apps 32, 48
 Plasma Theme
 -------------
 
-Added widget: viewitem.svg
+Update widget: viewitem.svg
 
 
 
