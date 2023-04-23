@@ -510,4 +510,22 @@ Plasma Theme
 Update widget: viewitem.svg
 
 
+Changelog: 23.04.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: lutris.svg
+
+GTK Theme
+---------
+
+Update: tab-up-active.png, tab-up.png
+
 
