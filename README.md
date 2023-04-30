@@ -528,4 +528,22 @@ GTK Theme
 
 Update: tab-up-active.png, tab-up.png
 
+Changelog: 30.04.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update widget: listitem.svg
+
+GTK Theme
+---------
+
+Update: gtk-2.0
+
 
