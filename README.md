@@ -546,4 +546,22 @@ GTK Theme
 
 Update: gtk-2.0
 
+Changelog: 07.05.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: thunderbird.svg
+
+GTK Theme
+---------
+
+Update: focus.png
+
 
