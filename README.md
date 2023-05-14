@@ -564,4 +564,21 @@ GTK Theme
 
 Update: focus.png
 
+Changelog: 14.05.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: corectrl.svg
+
+GTK Theme
+---------
+
+Update: gtk-3.0, gtk-4.0
 
