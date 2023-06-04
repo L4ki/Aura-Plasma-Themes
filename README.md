@@ -618,3 +618,21 @@ GTK Theme
 
 Update: line.png
 
+Changelog: 04.06.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: veracrypt.svg
+
+GTK Theme
+---------
+
+Update: tab-up-active.png
+
