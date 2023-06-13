@@ -636,3 +636,21 @@ GTK Theme
 
 Update: tab-up-active.png
 
+Changelog: 13.06.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update: metadata.desktop
+
+GTK Theme
+---------
+
+Update: tab-up.png
+
