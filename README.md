@@ -727,3 +727,22 @@ GTK Theme
 
 Update: tab-down.png
 
+Changelog: 18.07.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added widget: media-delegate.svg
+
+GTK Theme
+---------
+
+Update: dash-symbolic.svg
+
+
