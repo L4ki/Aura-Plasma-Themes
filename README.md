@@ -781,4 +781,21 @@ GTK Theme
 
 Update: gtk-2.0
 
+Changelog: 08.08.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added widget: switch.svg
+
+GTK Theme
+---------
+
+Update: checkmark-symbolic.svg
 
