@@ -818,3 +818,22 @@ GTK Theme
 
 Update: hacks-dark.rc
 
+
+Changelog: 22.08.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Added icon: microphone.svg
+
+GTK Theme
+---------
+
+Update: gtkrc
+
