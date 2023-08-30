@@ -837,3 +837,21 @@ GTK Theme
 
 Update: gtkrc
 
+Changelog: 30.08.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update widget: lineedit.svg
+
+GTK Theme
+---------
+
+Update: tab-left-active.png
+
