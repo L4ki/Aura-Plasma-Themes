@@ -873,3 +873,21 @@ GTK Theme
 
 Update: tab-right-active.png
 
+Changelog: 13.09.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32
+
+Plasma Theme
+-------------
+
+Added: wind-arrows.svg
+
+GTK Theme
+---------
+
+Update: border.png
+
