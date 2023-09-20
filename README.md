@@ -891,3 +891,22 @@ GTK Theme
 
 Update: border.png
 
+
+Changelog: 20.09.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32
+
+Plasma Theme
+-------------
+
+Added icons: accessories.svg
+
+GTK Theme
+---------
+
+Update: frame-notebook.png
+
