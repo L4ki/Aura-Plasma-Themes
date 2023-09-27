@@ -916,8 +916,7 @@ Changelog: 27.09.2023.
 Icons
 ------
 
-Added new icons: apps 32
-
+Added new icons: apps 32, 48
 Plasma Theme
 -------------
 
