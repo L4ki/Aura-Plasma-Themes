@@ -984,3 +984,21 @@ GTK Theme
 Update: menu-border.png
 
 
+Changelog: 25.10.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update: background.svg (dialogs)
+
+GTK Theme
+---------
+
+Update: handle.png
+
