@@ -6,7 +6,7 @@
    height="570"
    id="svg4257"
    version="1.1"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="background.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -18,18 +18,7 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style
      type="text/css"
-     id="current-color-scheme">.ColorScheme-Text { color:#3b445f;    stop-color:#3b445f; }
-.ColorScheme-Background { color:#eff0f1;        stop-color:#eff0f1; }
-.ColorScheme-Highlight { color:#3daee9;        stop-color:#3daee9; }
-.ColorScheme-ViewText { color:#31363b;        stop-color:#31363b; }
-.ColorScheme-ViewBackground { color:#fcfcfc;        stop-color:#fcfcfc; }
-.ColorScheme-ViewHover { color:#93cee9;        stop-color:#93cee9; }
-.ColorScheme-ViewFocus { color:#3daee9;        stop-color:#3daee9; }
-.ColorScheme-ButtonText { color:#31363b;        stop-color:#31363b; }
-.ColorScheme-ButtonBackground { color:#eff0f1;        stop-color:#eff0f1; }
-.ColorScheme-ButtonHover { color:#93cee9;        stop-color:#93cee9; }
-.ColorScheme-ButtonFocus { color:#3daee9;        stop-color:#3daee9; }
-</style>
+     id="current-color-scheme">.ColorScheme-Text { color:#3b445f;    stop-color:#3b445f; }&#10;.ColorScheme-Background { color:#eff0f1;        stop-color:#eff0f1; }&#10;.ColorScheme-Highlight { color:#3daee9;        stop-color:#3daee9; }&#10;.ColorScheme-ViewText { color:#31363b;        stop-color:#31363b; }&#10;.ColorScheme-ViewBackground { color:#fcfcfc;        stop-color:#fcfcfc; }&#10;.ColorScheme-ViewHover { color:#93cee9;        stop-color:#93cee9; }&#10;.ColorScheme-ViewFocus { color:#3daee9;        stop-color:#3daee9; }&#10;.ColorScheme-ButtonText { color:#31363b;        stop-color:#31363b; }&#10;.ColorScheme-ButtonBackground { color:#eff0f1;        stop-color:#eff0f1; }&#10;.ColorScheme-ButtonHover { color:#93cee9;        stop-color:#93cee9; }&#10;.ColorScheme-ButtonFocus { color:#3daee9;        stop-color:#3daee9; }&#10;</style>
   <sodipodi:namedview
      id="namedview1987"
      pagecolor="#ffffff"
@@ -38,13 +27,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.99999995"
-     inkscape:cx="255.50001"
-     inkscape:cy="343.50002"
+     inkscape:cx="80.000004"
+     inkscape:cy="298.50001"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -69,7 +58,9 @@
        spacingx="1"
        spacingy="1"
        originx="0"
-       originy="-2.7755576e-17" />
+       originy="-2.7755576e-17"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <defs
      id="defs4259">
@@ -764,5 +755,35 @@
          sodipodi:nodetypes="ccccc"
          class="ColorScheme-Highlight" />
     </g>
+    <rect
+       y="-155.83585"
+       x="1619.3622"
+       height="6"
+       width="5.7647014"
+       id="hint-right-inset"
+       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.20048"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.20049"
+       id="hint-left-inset"
+       width="5.7647009"
+       height="6"
+       x="1619.3622"
+       y="-97.707253"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.263124"
+       id="hint-top-inset"
+       width="5.7647057"
+       height="0.28823501"
+       x="120.70726"
+       y="1590.3622" />
+    <rect
+       y="1653.4857"
+       x="120.70726"
+       height="0.28823501"
+       width="5.7647052"
+       id="hint-bottom-inset"
+       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.263124" />
   </g>
 </svg>
