@@ -1013,7 +1013,7 @@ Added new icons: apps 32, 48
 Plasma Theme
 -------------
 
-Update: Panel-background.svg
+Update: panel-background.svg
 
 GTK Theme
 ---------
