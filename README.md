@@ -1002,3 +1002,21 @@ GTK Theme
 
 Update: handle.png
 
+Changelog: 01.11.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+-------------
+
+Update: Panel-background.svg
+
+GTK Theme
+---------
+
+Update: treeview-separator-ltr.png
+
