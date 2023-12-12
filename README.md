@@ -1093,4 +1093,15 @@ GTK Theme
 
 Update: styles
 
+Changelog: 12.12.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
+
+
+
 
