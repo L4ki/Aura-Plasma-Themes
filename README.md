@@ -1106,6 +1106,14 @@ Plasma Theme
 
 Added icon: telegram.svg
 
+Changelog: 19.12.2023.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 32, 48
+
 
 
 
