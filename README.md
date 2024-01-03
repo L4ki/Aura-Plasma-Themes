@@ -1132,6 +1132,14 @@ Plasma Theme
 
 Added icon: transform.svg
 
+Changelog: 03.01.2024.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 48
+
 
 
 
