@@ -1140,6 +1140,21 @@ Icons
 
 Added new icons: apps 48
 
+Changelog: 17.01.2024.
+-----------------------
+
+Icons
+------
+
+Added new icons: apps 48
+
+Changelog: 19.01.2024.
+-----------------------
+
+Plasma Theme
+------------
+
+Added icon: solaar.svg
 
 
 
