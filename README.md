@@ -33,21 +33,13 @@ Screenshots:
 ![Screenshot_20220904_174436](https://user-images.githubusercontent.com/45247573/188836668-267576d6-56b6-4dad-916a-91da86477cad.png)
 
 
-Changelog: 17.01.2024.
------------------------
-
-Icons
-------
-
-Added new icons: apps 48
-
-Changelog: 19.01.2024.
+Changelog: 26.01.2024.
 -----------------------
 
 Plasma Theme
 ------------
 
-Added icon: solaar.svg
+Update widget: pager.svg
 
 Changelog: 24.01.2024.
 -----------------------
