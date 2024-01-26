@@ -5,7 +5,7 @@
    height="25"
    id="svg11324"
    sodipodi:docname="pager.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -16,7 +16,7 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#000000"
+     bordercolor="#030303"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -24,12 +24,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="994"
      id="namedview40"
      showgrid="false"
-     inkscape:zoom="16.000001"
-     inkscape:cx="20.531249"
-     inkscape:cy="13.031249"
+     inkscape:zoom="11.313709"
+     inkscape:cx="22.892581"
+     inkscape:cy="20.594484"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,12 +38,16 @@
      inkscape:document-rotation="0"
      inkscape:showpageshadow="true"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
        id="grid928"
        originx="0"
-       originy="0" />
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata3500">
@@ -73,11 +77,11 @@
        inkscape:collect="always"
        id="linearGradient2382">
       <stop
-         style="stop-color:#00a3cc;stop-opacity:1"
+         style="stop-color:#88c0d0;stop-opacity:1;"
          offset="0"
          id="stop2378" />
       <stop
-         style="stop-color:#00a3cc;stop-opacity:0.012"
+         style="stop-color:#88c0d0;stop-opacity:0.01176471;"
          offset="1"
          id="stop2380" />
     </linearGradient>
@@ -96,7 +100,7 @@
     <path
        d="m 26,13 c 0,0.619197 0.397424,1 1,1 v 0 -1 z"
        id="86868"
-       style="fill:#008080;fill-opacity:0.251328;stroke:none"
+       style="fill:#81a1c1;fill-opacity:0.34901962;stroke:none"
        sodipodi:nodetypes="ccccc" />
   </g>
   <g
@@ -109,22 +113,22 @@
        x="27"
        y="13"
        id="65756756"
-       style="fill:#008080;fill-opacity:0.25;stroke:none" />
+       style="fill:#81a1c1;fill-opacity:0.34901962;stroke:none" />
   </g>
   <path
      d="m 28,9 c -0.635367,0 -1,0.3843226 -1,1 h 1 z"
      id="normal-topleft"
-     style="fill:#008080;fill-opacity:0.250162;stroke:none"
+     style="fill:#81a1c1;fill-opacity:0.34901962;stroke:none"
      sodipodi:nodetypes="ccccc" />
   <path
      d="m 33,9 v 1 h 1 C 34,9.3238511 33.603245,9 33,9 Z"
      id="normal-topright"
-     style="fill:#008080;fill-opacity:0.25;stroke:none"
+     style="fill:#81a1c1;fill-opacity:0.34901962;stroke:none"
      sodipodi:nodetypes="cccc" />
   <path
      d="m 28,9 v 1 h 5 V 9 Z"
      id="normal-top"
-     style="fill:#008080;fill-opacity:0.25;stroke:none" />
+     style="fill:#81a1c1;fill-opacity:0.34901962;stroke:none" />
   <path
      d="m 7,10 v 4.992005 l 1,0.008 V 10 Z"
      id="hover-left"
@@ -215,7 +219,7 @@
        x="26.985224"
        y="7.999661"
        id="ergrerg"
-       style="opacity:1;fill:#008080;fill-opacity:0.1;stroke:none;stroke-width:0.998918" />
+       style="opacity:1;fill:#81a1c1;fill-opacity:0.14901961;stroke:none;stroke-width:0.998918" />
   </g>
   <g
      id="normal-bottomright"
@@ -224,7 +228,7 @@
     <path
        d="m 32,13 v 1 0 c 0.640132,0 1,-0.350811 1,-1 z"
        id="8979879"
-       style="fill:#008080;fill-opacity:0.25;stroke:none"
+       style="fill:#81a1c1;fill-opacity:0.34901962;stroke:none"
        sodipodi:nodetypes="ccccc" />
   </g>
   <g
@@ -234,7 +238,7 @@
     <path
        d="m 33,8 v 4.999999 H 32 V 8 Z"
        id="nofh"
-       style="fill:#008080;fill-opacity:0.25;stroke:none" />
+       style="fill:#81a1c1;fill-opacity:0.34901962;stroke:none" />
   </g>
   <g
      transform="translate(-4.9999992,2)"
@@ -243,7 +247,7 @@
     <path
        d="m 33,8 v 4.999999 H 32 V 8 Z"
        id="path6648"
-       style="fill:#008080;fill-opacity:0.249481;stroke:none" />
+       style="fill:#81a1c1;fill-opacity:0.34901962;stroke:none" />
   </g>
   <rect
      width="5"
@@ -251,7 +255,7 @@
      x="18"
      y="10"
      id="active-center"
-     style="opacity:0.1;fill:#4d94ff;fill-opacity:1;stroke:none" />
+     style="opacity:0.1;fill:#5e81ac;fill-opacity:1;stroke:none" />
   <g
      id="hover-center">
     <rect
