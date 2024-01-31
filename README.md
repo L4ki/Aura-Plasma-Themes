@@ -41,7 +41,7 @@ Plasma Theme
 
 Update widget: pager.svg
 
-Changelog: 24.01.2024.
+Changelog: 31.01.2024.
 -----------------------
 
 Icons
